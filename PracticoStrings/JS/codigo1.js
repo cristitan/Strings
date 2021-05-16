@@ -14,7 +14,7 @@ function invertirTexto(textoOriginal) {
   return textoInvertido;
 }
 
-// Para saber cantidad hasta x letra
+// Para saber cantidad hasta x letras
 
 let cantidadA = 0;
 
